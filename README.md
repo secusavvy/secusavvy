@@ -3,7 +3,7 @@
 Hello there! I'm Zakarye, enthusiastic about Cybersecurity and programming.
 ## About Me
 
-- 💻 I'm an IT technician student from Morocco.
+- 💻 I'm an IT-Network Administration Student from Morocco.
 - 🔭 I'm always exploring new technologies.
 - 📚 I'm a lifelong learner, committed to improving my skills every day.
 
