@@ -20,7 +20,7 @@ Right now, I'm on a coding journey, diving deep into the world of technology and
 
 - 💼 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/zakarye-ridoine).
 - 📖 Check out my articles on [Medium](https://medium.com/@NullSeki)
-- 🌐 Check out my other accounts (https://linktr.ee/NullSeki)
+- 🌐 Check out my other accounts [Linktree](https://linktr.ee/NullSeki)
 
 ## Let's Code Together!
 
