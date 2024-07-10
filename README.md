@@ -19,7 +19,7 @@ Right now, I'm on a coding journey, diving deep into the world of technology and
 
 ## Let's Connect
 
-- 📖 Check out my articles on [Medium](https://medium.com/@0xRekin)
+- 📖 Check out my articles on [Medium](https://medium.com/@0xKn07)
 - 🌐 Check out my other accounts [Linktree](https://linktr.ee/0xRekin)
 
 
