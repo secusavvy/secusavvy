@@ -15,9 +15,14 @@ I'm enthusiastic about Cybersecurity and programming.
 -  Insightful documentation for my projects.
 
 
-## My Current Focus
+## Technologies That I Know
 
-Right now, I'm on a coding journey, diving deep into the world of technology and coding. You can follow along and learn with me!
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,rust,php,powershell,bash,mysql,nodejs,git,docker,vscode,sublime,windows,linux,ubuntu,kali&perline=8" />
+  </a>
+</p>
 
 
 ## Let's Connect
@@ -31,6 +36,7 @@ Right now, I'm on a coding journey, diving deep into the world of technology and
 I have faith in the strength of collaboration and mutual learning. If you share a passion for coding or tech, let's link up, learn, and code side by side. Feel free to reach out and join me on this incredible journey.
 
 Happy coding!
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
