@@ -20,7 +20,7 @@ I'm enthusiastic about Cybersecurity and programming.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,js,ruby,rust,php,powershell,bash,mysql,nodejs,git,docker,vscode,sublime,windows,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,html,js,ruby,go,php,powershell,bash,mysql,nodejs,git,docker,vscode,sublime,windows,linux&perline=8" />
   </a>
 </p>
 
