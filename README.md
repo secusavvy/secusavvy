@@ -27,8 +27,8 @@ I'm enthusiastic about Cybersecurity and programming.
 
 ## Let's Connect
 
--  Check out my account on [X(Twitter)](https://x.com/0xKn07)
--  Check out my articles on [Medium](https://medium.com/@0xKn07)
+-  Check out my account on [X(Twitter)](https://x.com/0xKnoty)
+-  Check out my articles on [Medium](https://medium.com/@0xKnoty)
 
 
 ## Let's Code Together!
