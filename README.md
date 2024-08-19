@@ -18,7 +18,7 @@ I'm enthusiastic about **Cybersecurity**.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,html,js,php,powershell,bash,mysql,nodejs,git,docker,vscode,windows,linux&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,ruby,c,html,js,php,powershell,bash,mysql,nodejs,git,docker,vscode,notion,windows,linux&perline=8" />
   </a>
 </p><br><br>
 
