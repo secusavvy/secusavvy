@@ -24,8 +24,8 @@ I'm enthusiastic about **Cybersecurity**.
 
 ## Connect with Me
 
-- 📱 [X (Twitter)](https://x.com/0xKnoty)
-- 📝 [Medium Articles](https://medium.com/@0xKnoty)<br><br>
+- 📱 [X (Twitter)](https://x.com/secusavvy)
+- 📝 [Medium Articles](https://medium.com/@secusavvy)<br><br>
 
 ## Let's Code Together!
 
