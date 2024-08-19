@@ -3,39 +3,35 @@
 
 ## Hey there!
 
-I'm enthusiastic about Cybersecurity and programming.
--  I'm an IT-Network Administration Student.
--  I'm always exploring new technologies.
--  I'm a lifelong learner, committed to improving my skills every day.
-
+I'm enthusiastic about **Cybersecurity**.
+- 🔐 **IT-Network Administration Student** with a focus on network security and ethical hacking.
+- 🛠️ **Tech Explorer:** Constantly delving into the latest cybersecurity tools and technologies.
+- 📚 **Lifelong Learner:** Dedicated to mastering the art of protecting digital assets and improving my skills every day.<br><br>
 
 ## What You'll Find Here
 
--  A collection of my coding projects, from simple utilities to complex applications.
--  Insightful documentation for my projects.
+- 🔍 **Cybersecurity Projects:** A showcase of my work on security tools, vulnerability assessments, and penetration testing scripts.
+- 📄 **Detailed Documentation:** Clear, comprehensive documentation for each project to help you understand and replicate my work.<br><br>
 
-
-## Technologies That I Know
+## Skills & Technologies
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,html,js,php,powershell,bash,mysql,nodejs,git,docker,vscode,windows,linux&perline=7" />
   </a>
-</p>
+</p><br><br>
 
+## Connect with Me
 
-## Let's Connect
-
--  Check out my account on [X(Twitter)](https://x.com/0xKnoty)
--  Check out my articles on [Medium](https://medium.com/@0xKnoty)
-
+- 📱 [X (Twitter)](https://x.com/0xKnoty)
+- 📝 [Medium Articles](https://medium.com/@0xKnoty)<br><br>
 
 ## Let's Code Together!
 
-I have faith in the strength of collaboration and mutual learning. If you share a passion for coding or tech, let's link up, learn, and code side by side. Feel free to reach out and join me on this incredible journey.
+I believe in the power of collaboration and shared knowledge. If you’re passionate about cybersecurity or tech, let’s connect, learn together, and work on exciting projects. Feel free to reach out to me!
 
-Happy coding!
+Happy securing and coding!
 
 
 <!--horizontal divider(gradiant)-->
