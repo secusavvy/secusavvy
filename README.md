@@ -25,7 +25,7 @@ I'm enthusiastic about **Cybersecurity**.
 ## Connect with Me
 
 - 📱 [X (Twitter)](https://x.com/secusavvy)
-- 📝 [Medium Articles](https://medium.com/@secusavvy)<br><br>
+- 📝 [Linkedin](https://www.linkedin.com/in/zakarye-ridoine/)<br><br>
 
 ## Let's Code Together!
 
