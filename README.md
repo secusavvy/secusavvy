@@ -13,15 +13,6 @@ I'm enthusiastic about **Cybersecurity**.
 - 🔍 **Cybersecurity Projects:** A showcase of my work on security tools, vulnerability assessments, and penetration testing scripts.
 - 📄 **Detailed Documentation:** Clear, comprehensive documentation for each project to help you understand and replicate my work.<br><br>
 
-## Skills & Technologies
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ruby,c,html,js,php,powershell,bash,mysql,mongodb,git,docker,vscode,notion,windows,linux&perline=8" />
-  </a>
-</p><br><br>
-
 ## Connect with Me
 
 - 📱 [X (Twitter)](https://x.com/secusavvy)
