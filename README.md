@@ -5,7 +5,6 @@
          Medium: https://zared1.medium.com
          Github: https://github.com/zared1
          THM: https://tryhackme.com/p/zared1
-         HackerOne: https://hackerone.com/zared1
 ```
 
 ## About:
